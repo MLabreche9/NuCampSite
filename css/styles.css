@@ -44,6 +44,9 @@ header h2 {
     border: solid #5637DD;
 }
 
-.myAccordion .card .card-header {
-    background-color: rgba(72, 153, 126, 0.5);
+#carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 100;
 }
